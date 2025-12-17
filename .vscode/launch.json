@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Editor4",
+            "request": "launch",
+            "mainClass": "Editor4",
+            "projectName": "hw6-1-edenschapira_8f3fff6"
+        },
+        {
+            "type": "java",
             "name": "Runigram",
             "request": "launch",
             "mainClass": "Runigram",
